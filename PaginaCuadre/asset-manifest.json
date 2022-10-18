@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PaginaCuadre/static/css/main.27064a50.css",
+    "main.js": "/PaginaCuadre/static/js/main.88ebc2f5.js",
+    "static/media/tnaque_sn45.png": "/PaginaCuadre/static/media/tnaque_sn45.fd8e7759896de0378c10.png",
+    "static/media/tnaque_sn65.png": "/PaginaCuadre/static/media/tnaque_sn65.619e954704b340ccfc4d.png",
+    "static/media/tnaque_sn35.png": "/PaginaCuadre/static/media/tnaque_sn35.055deabafd608cd448b7.png",
+    "static/media/tnaque_sn85.png": "/PaginaCuadre/static/media/tnaque_sn85.f5b6ce3311431f9c8898.png",
+    "static/media/tnaque_sn50.png": "/PaginaCuadre/static/media/tnaque_sn50.7848ddc267b21d03a196.png",
+    "static/media/tnaque_sn75.png": "/PaginaCuadre/static/media/tnaque_sn75.822fec83ea12face1350.png",
+    "index.html": "/PaginaCuadre/index.html",
+    "main.27064a50.css.map": "/PaginaCuadre/static/css/main.27064a50.css.map",
+    "main.88ebc2f5.js.map": "/PaginaCuadre/static/js/main.88ebc2f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27064a50.css",
+    "static/js/main.88ebc2f5.js"
+  ]
+}
